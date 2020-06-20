@@ -1,5 +1,4 @@
-# DSCI_532_Group_208_Job
-Milestone 1
+# Job Analysis Dashboard
 
 ### Team members
 Huayue (Luke) L.: [mglu123](https://github.com/mglu123)  
